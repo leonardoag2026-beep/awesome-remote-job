@@ -7,6 +7,7 @@
 - [英语（默认）](README.md)
 - [西班牙语](README.es.md)
 - [法语](README.fr.md)
+- [葡萄牙语（巴西）](README.pt-BR.md)
 - [简体中文](README.zh.md)
 
 *如需贡献，请点击 README.zh.md，然后点击铅笔图标。完成修改后，点击 "Propose file change" 按钮提交 pull request。请确保遵循[贡献指南](CONTRIBUTING.md)。*
